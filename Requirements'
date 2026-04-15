@@ -1,0 +1,6 @@
+streamlit==1.32.0
+plotly==5.20.0
+pandas==2.2.1
+numpy==1.26.4
+fpdf2==2.7.9
+altair==5.2.0
